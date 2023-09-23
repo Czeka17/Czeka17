@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czeka17&label=Profile%20views&color=0e75b6&style=flat" alt="czeka17" /> </p>
 
-- 🌱 I’m currently learning **React-Native**, **Three.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 📫 How to reach me **jczekanski123@gmail.com**
   
-- 🖥️ Im currently working on **Landmarks Legends - react native app** (https://play.google.com/store/apps/details?id=com.czeka17.LandmarkLegends)
+- 🖥️ Im currently working on **Landmarks Legends - react native app** (https://play.google.com/store/apps/details?id=com.czeka17.LandmarkLegends) && **e-commerce app**
 
 - ⏱ React Native break (July - August)
 
