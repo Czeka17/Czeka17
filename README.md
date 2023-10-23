@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czeka17&label=Profile%20views&color=0e75b6&style=flat" alt="czeka17" /> </p>
 
-- 🌱 Currently, I am honing my front-end skills excellently.
+- 🌱 Currently, I am honing my front-end skills excellently and learning MERN.
 
 - 📫 How to reach me **jczekanski123@gmail.com**
   
