@@ -11,9 +11,7 @@
   
 - 🖥️ Im currently working on :
   <ul>
-    <li> 📱 Landmarks Legends - react native app (https://play.google.com/store/apps/details?id=com.czeka17.LandmarkLegends)</li>
-    <li> 👖e-commerce app</li>
-    <li>👨 New porfolio page</li>
+    <li> 👖 e-commerce app</li>
   </ul>
 
 - ⏱ React Native break (July - August)
