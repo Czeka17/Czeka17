@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czeka17&label=Profile%20views&color=0e75b6&style=flat" alt="czeka17" /> </p>
 
-- 🌱 Currently, I am honing my front-end skills excellently and learning MERN.
+- 🌱 Currently, I am honing my front-end skills excellently and learning Angular.
 
 - 📫 How to reach me **jczekanski123@gmail.com**
   
 - 🖥️ Im currently working on :
   <ul>
-    <li> 👖 e-commerce app</li>
+    <li>🚛 Truck transport landing page</li>
   </ul>
 
 - ⏱ React Native break (July - August)
