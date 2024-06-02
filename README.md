@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>My name is Jacob and I'm aspiring fullstack developer from Poland</h2>
+<h2 align="center">Hi 👋! <br>My name is Jacob and I'm freelance fullstack developer from Poland</h2>
 
 ###
 
@@ -11,14 +11,14 @@
   
 - 🖥️ Im currently working on :
   <ul>
-    <li>🚛 Truck transport landing page</li>
+    <li>🚲 Bike Trainer landing page</li>
   </ul>
 
 - ⏱ React Native break (July - August)
 
 - 🏆 My current daily challanges are :
   <ul>
-  <li>👨‍💻 4-8 hours of daily code practice (database,code,graphics)</li>
+  <li>👨‍💻 4-6 hours of daily code practice (database,code,graphics)</li>
   <li>🏃 Keeping streak on daily CSSBattle challange</li>
   </ul>
 
