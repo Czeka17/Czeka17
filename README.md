@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czeka17&label=Profile%20views&color=0e75b6&style=flat" alt="czeka17" /> </p>
 
-- 🌱 Currently, I am making a idle clicker game with pixel art.
+- 🌱 Currently, I am making a self care app
 
 - 📫 How to reach me **jczekanski123@gmail.com**
   
 - 🖥️ Im currently working on :
   <ul>
-    <li>🚲 Bike Trainer landing page</li>
+    <li>❤️‍🩹 Self-care app - HabiRhytm</li>
   </ul>
 
 - ⏱ React Native break (July - August)
