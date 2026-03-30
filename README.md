@@ -14,18 +14,6 @@
     <li>❤️‍🩹 Self-care app - HabiRhytm</li>
   </ul>
 
-- ⏱ React Native break (July - August)
-
-- 🏆 My current daily challanges are :
-  <ul>
-  <li>👨‍💻 4-6 hours of daily code practice (database,code,graphics)</li>
-  <li>🏃 Keeping streak on daily CSSBattle challange</li>
-  </ul>
-
-- 🖥️ Leetcode - https://leetcode.com/Czeka17/
-
-<img align="right" height="150" src="https://res.cloudinary.com/dmn5oy2qa/image/upload/v1697388374/cohk9kwabr1zof0rd2az.png"  />
-
 ###
 
 
