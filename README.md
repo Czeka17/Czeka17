@@ -11,7 +11,7 @@
   
 - 🖥️ Im currently working on :
   <ul>
-    <li>❤️‍🩹 Self-care app - HabiRhytm</li>
+    <li>❤️‍🩹 Self-care app - HabiRhythm</li>
   </ul>
 
 ###
